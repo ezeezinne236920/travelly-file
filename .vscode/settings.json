@@ -1,0 +1,9 @@
+{
+  "typescript.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": true,
+  "html.autoClosingTags": false,
+  "css.format.enable": true,
+  "html.format.enable": true
+}
